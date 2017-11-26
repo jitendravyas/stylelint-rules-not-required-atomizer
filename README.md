@@ -1,4 +1,4 @@
-# stylelint-rules-not-required-atomizer
+# stylelint rules list which are not required for genenerated output by atomizer.
 
 ## List of rules
 
@@ -6,13 +6,13 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 
 ### Possible errors
 
-#### Color (Note needed with Atomizer)
+#### Color
 
 -   [`color-no-invalid-hex`](../../lib/rules/color-no-invalid-hex/README.md): Disallow invalid hex colors.
 
 #### Font family 
 
--   [`font-family-no-duplicate-names`](../../lib/rules/font-family-no-duplicate-names/README.md): Disallow duplicate font family names. (Note needed with Atomizer
+-   [`font-family-no-duplicate-names`](../../lib/rules/font-family-no-duplicate-names/README.md): Disallow duplicate font family names. **(Not required)**
 -   [`font-family-no-missing-generic-family-keyword`](../../lib/rules/font-family-no-missing-generic-family-keyword/README.md): Disallow missing generic families in lists of font family names.
 
 #### Function
