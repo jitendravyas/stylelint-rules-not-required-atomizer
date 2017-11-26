@@ -59,7 +59,7 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 
 #### At-rule
 
--   [`at-rule-no-unknown`](https://github.com/stylelint/stylelint/blob/master/lib/rules/at-rule-no-unknown/README.md): Disallow unknown at-rules.
+-   [`at-rule-no-unknown`](https://github.com/stylelint/stylelint/blob/master/lib/rules/at-rule-no-unknown/README.md): Disallow unknown at-rules. **(Not required)**
 
 #### Comment
 
