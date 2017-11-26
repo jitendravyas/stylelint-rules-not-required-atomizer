@@ -28,7 +28,7 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 
 #### Unit
 
--   [`unit-no-unknown`](https://github.com/stylelint/stylelint/blob/master/lib/rules/unit-no-unknown/README.md): Disallow unknown units.
+-   [`unit-no-unknown`](https://github.com/stylelint/stylelint/blob/master/lib/rules/unit-no-unknown/README.md): Disallow unknown units. **(Required)**
 
 #### Property
 
