@@ -1,5 +1,7 @@
 # stylelint rules list which are not required for genenerated output by atomizer.
 
+Rules which are not required marked as **(Not required)**
+
 ## List of rules
 
 Here are all the rules within stylelint, grouped first [by category](../../VISION.md) and then by the [*thing*](http://apps.workflower.fi/vocabs/css/en) they apply to.
