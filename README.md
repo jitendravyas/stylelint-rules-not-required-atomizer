@@ -10,7 +10,7 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 
 #### Color
 
--   [`color-no-invalid-hex`](https://github.com/stylelint/stylelint/blob/master/lib/rules/color-no-invalid-hex/README.md): Disallow invalid hex colors.
+-   [`color-no-invalid-hex`](https://github.com/stylelint/stylelint/blob/master/lib/rules/color-no-invalid-hex/README.md): Disallow invalid hex colors. **(Required)**
 
 #### Font family 
 
