@@ -45,7 +45,7 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 
 #### Block
 
--   [`block-no-empty`](https://github.com/stylelint/stylelint/blob/master/lib/rules/block-no-empty/README.md): Disallow empty blocks.
+-   [`block-no-empty`](https://github.com/stylelint/stylelint/blob/master/lib/rules/block-no-empty/README.md): Disallow empty blocks. **(Not required)**
 
 #### Selector
 
