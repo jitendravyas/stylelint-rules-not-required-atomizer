@@ -32,7 +32,7 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 
 #### Property
 
--   [`property-no-unknown`](https://github.com/stylelint/stylelint/blob/master/lib/rules/property-no-unknown/README.md): Disallow unknown properties.
+-   [`property-no-unknown`](https://github.com/stylelint/stylelint/blob/master/lib/rules/property-no-unknown/README.md): Disallow unknown properties. **(Not required)**
 
 #### Keyframe declaration
 
