@@ -332,7 +332,7 @@ Here are all the rules within stylelint, grouped first [by category](../../VISIO
 #### General / Sheet
 
 -   [`indentation`](https://github.com/stylelint/stylelint/blob/master/lib/rules/indentation/README.md): Specify indentation (Autofixable). **(Not required)**
--   [`max-empty-lines`](https://github.com/stylelint/stylelint/blob/master/lib/rules/max-empty-lines/README.md): Limit the number of adjacent empty lines.
+-   [`max-empty-lines`](https://github.com/stylelint/stylelint/blob/master/lib/rules/max-empty-lines/README.md): Limit the number of adjacent empty lines. **(Not required)**
 -   [`max-line-length`](https://github.com/stylelint/stylelint/blob/master/lib/rules/max-line-length/README.md): Limit the length of a line.
 -   [`no-eol-whitespace`](https://github.com/stylelint/stylelint/blob/master/lib/rules/no-eol-whitespace/README.md): Disallow end-of-line whitespace.
 -   [`no-missing-end-of-source-newline`](https://github.com/stylelint/stylelint/blob/master/lib/rules/no-missing-end-of-source-newline/README.md): Disallow missing end-of-source newlines (Autofixable).
